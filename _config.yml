@@ -21,10 +21,10 @@ description: Always Eclectic
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+# Resources:
+#   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+#   - Learn markdown: "http://www.markdowntutorial.com/"
+# Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -73,7 +73,7 @@ social-network-links:
   github: manic2man
 # twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: marshall-shoots-b932611a2
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
